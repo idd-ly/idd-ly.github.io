@@ -6,21 +6,22 @@
 ### Sections
 A List for Sections 
 - Header
-  - Logo
   - Menu
   -Login
 -Student Profiles -> Allow this to be Clickable
   - Photo 
   - Quote 
   - Name
+  -Personal Website/Blog for student
      - Student Portfolio -> Make this view similar to behance
      - Search 
-     - Filters
+     - Filters (Which application was used/type of medium)
      - Grids
 ### Design Guide
 
 
-### Required Content
+### Required Content 
+- Header -> **What goes in a Header?**
 
 ### Menus
 
