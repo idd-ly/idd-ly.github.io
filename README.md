@@ -22,6 +22,16 @@ A List for Sections
 
 ### Required Content 
 - Header -> **What goes in a Header?**
+    - Logo 
+    - Menu 
+     -Logo  
+      -Home
+      -About Us!
+      Our Team (Professors, Staff, Alumni etc.)
+      -Programs
+      -Resources ()
+      -Contact
+      -Search 
 
 ### Menus
 
