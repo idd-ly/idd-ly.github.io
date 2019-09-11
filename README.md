@@ -15,11 +15,8 @@ A List for Sections
   -Personal Website/Blog for student
      - Student Portfolio -> Make this view similar to behance
      - Search 
-     - Filters (Which application was used/type of medium)
+     - Filters/Tags (Which application was used/type of medium)
      - Grids
-### Design Guide
-
-
 ### Required Content 
 - Header -> **What goes in a Header?**
     - Logo 
@@ -28,14 +25,17 @@ A List for Sections
       - About Us!
       - Our Team (Professors, Staff, Alumni etc.)
       - Programs
-      - Resources ()
+      - Resources (Free Adobe Creative Cloud, Lynda, etc.)
       - Contact
       - Search 
-
-### Menus
-
-### Typography
-
-### Colours
+### Design Guide
+## Colours
  Have a default colour scheme, but allow them to be customizable similar to blackboard 
  -> Allow footers/headers to have changed colours, but not the content/logo
+
+## Menus
+## Logo
+
+## Typography
+Specifically, for this 
+
