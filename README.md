@@ -5,7 +5,7 @@
 - [IDD Course Site] ()
 ### Sections
 A List for Sections 
-- Header
+- **Header**
   - Menu
   -Login
 -Student Profiles -> Allow this to be Clickable
@@ -19,8 +19,8 @@ A List for Sections
      - Grids
 ### Required Content 
 - Header -> **What goes in a Header?**
-    - Logo 
-    - Menu 
+    - **Logo** 
+    - **Menu** 
       - Home
       - About Us!
       - Our Team (Professors, Staff, Alumni etc.)
