@@ -21,7 +21,7 @@ A List for Sections
 
 
 ### Required Content 
-- Header -> **What goes in a Header?**
+- Header -> **What goes in a Header?
 
 ### Menus
 
