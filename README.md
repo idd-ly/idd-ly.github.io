@@ -2,8 +2,8 @@
 
 ### Session A: Sept 11, 2019
 ## Inspo -> Website/Design Inspirations with src(s)
-- [IDD Course Site] ()
-### Sections
+- [IDD Course Site] (General Ideas/Design Guide)
+# Sections
 A List for Sections 
 - **Header**
   - Menu
@@ -16,7 +16,7 @@ A List for Sections
      - Search 
      - Filters/Tags (Which application was used/type of medium)
      - Grids
-### Required Content 
+# Required Content 
 - Header -> **What goes in a Header?**
     - **Logo** 
     - **Menu** 
