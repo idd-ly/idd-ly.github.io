@@ -29,13 +29,12 @@ A List for Sections
       - Contact
       - Search 
 ### Design Guide
-## Colours
+# Colours
  Have a default colour scheme, but allow them to be customizable similar to blackboard 
  -> Allow footers/headers to have changed colours, but not the content/logo
 
-## Menus
-## Logo
-
-## Typography
+# Menus
+# Logo
+# Typography
 Specifically, for this 
 
