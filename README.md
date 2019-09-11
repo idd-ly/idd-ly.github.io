@@ -15,7 +15,8 @@ A List for Sections
      - Student Portfolio -> Make this view similar to behance
      - Search 
      - Filters/Tags (Which application was used/type of medium)
-     - Grids
+     - IDEA 1: Possibly layed out in a Grid format, to show off the portfolio
+     - IDEA 2: Could also just cut the portfolio part and have a link to the student's personal website/blog.
 # Required Content 
 - Header -> **What goes in a Header?**
     - **Logo** 
