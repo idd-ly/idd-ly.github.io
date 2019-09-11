@@ -12,6 +12,7 @@ A List for Sections
   - Photo 
   - Quote 
   - Name
+  -Follow Option (Could possibly make this a more sociable website, as well as an informative website.)
      - Student Portfolio -> Make this view similar to behance
      - Search 
      - Filters/Tags (Which application was used/type of medium)
@@ -35,6 +36,7 @@ A List for Sections
 
 ## Menus
 ## Logo
+
 ## Typography
 Specifically, for this 
 
