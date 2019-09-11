@@ -8,11 +8,10 @@ A List for Sections
 - **Header**
   - Menu
   -Login
--Student Profiles -> Allow this to be Clickable
+-**Student Profiles -> Allow this to be Clickable**
   - Photo 
   - Quote 
   - Name
-  -Personal Website/Blog for student
      - Student Portfolio -> Make this view similar to behance
      - Search 
      - Filters/Tags (Which application was used/type of medium)
