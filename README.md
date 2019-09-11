@@ -24,14 +24,13 @@ A List for Sections
 - Header -> **What goes in a Header?**
     - Logo 
     - Menu 
-    -Logo  
-    -Home
-    -About Us!
+    - Home
+    - About Us!
     - Our Team (Professors, Staff, Alumni etc.)
-    -Programs
-    -Resources ()
-    -Contact
-    -Search 
+    - Programs
+    - Resources ()
+    - Contact
+    - Search 
 
 ### Menus
 
