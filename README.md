@@ -13,7 +13,12 @@ A List for Sections
   - Photo 
   - Quote 
   - Name
-  - Once the Profile is clicked 
+     - Student Portfolio -> Make this view similar to behance
+     - Search 
+     - Filters
+     - Grids
+### Design Guide
+
 
 ### Required Content
 
@@ -23,3 +28,4 @@ A List for Sections
 
 ### Colours
  Have a default colour scheme, but allow them to be customizable similar to blackboard 
+ -> Allow footers/headers to have changed colours, but not the content/logo
