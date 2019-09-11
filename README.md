@@ -28,13 +28,13 @@ A List for Sections
       - Resources (Free Adobe Creative Cloud, Lynda, etc.)
       - Contact
       - Search 
-### Design Guide
-# Colours
+# Design Guide
+## Colours
  Have a default colour scheme, but allow them to be customizable similar to blackboard 
  -> Allow footers/headers to have changed colours, but not the content/logo
 
-# Menus
-# Logo
-# Typography
+## Menus
+## Logo
+## Typography
 Specifically, for this 
 
