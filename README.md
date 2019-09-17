@@ -38,5 +38,6 @@ A List for Sections
 ## Logo
 
 ## Typography
-Specifically, for this 
+
+Backup Fonts: 
 
