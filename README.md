@@ -33,7 +33,7 @@ A List for Sections
       - Search 
 # Design Guide    
 ## Colours
-  - Dominant Colour:  
+  - Dominant Colour:    
 ## Menus
 ## Inspo
 - Behance https://www.behance.net/
