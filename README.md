@@ -3,6 +3,8 @@
 ### Session A: Sept 11, 2019
 ## Inspo -> Website/Design Inspirations with src(s)
 - [IDD Course Site] (General Ideas/Design Guide)
+# Purpose
+ 
 # Sections
 A List for Sections 
 - **Header**
@@ -12,7 +14,7 @@ A List for Sections
   - Photo 
   - Quote 
   - Name
-  -Follow Option (Could possibly make this a more sociable website, as well as an informative website.)
+  -Follow Option (Could possibly make this a more sociable website, as well as an informative website for not just G103, but George Brown's Design Institution in general.)
      - Student Portfolio -> Make this view similar to behance
      - Search 
      - Filters/Tags (Which application was used/type of medium)
@@ -29,12 +31,13 @@ A List for Sections
       - Resources (Free Adobe Creative Cloud, Lynda, etc.)
       - Contact
       - Search 
-# Design Guide
+# Design Guide    
 ## Colours
+  - Dominant Colour:  
 ## Menus
 ## Inspo
 - Behance https://www.behance.net/
-  
+
   
 ## Logo
 
