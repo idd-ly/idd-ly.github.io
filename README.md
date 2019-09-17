@@ -36,9 +36,9 @@ A List for Sections
   - Dominant Colour:    
 ## Menus
 ## Inspo
-## Resources
- - icons: 
 - Behance https://www.behance.net/
+## Resources
+ - Icons: 
 
   
 ## Logo
