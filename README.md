@@ -31,13 +31,16 @@ A List for Sections
       - Search 
 # Design Guide
 ## Colours
- Have a default colour scheme, but allow them to be customizable similar to blackboard 
- -> Allow footers/headers to have changed colours, but not the content/logo
-
 ## Menus
+## Inspo
+- Behance https://www.behance.net/
+  
+  
 ## Logo
 
 ## Typography
-
-Backup Fonts: 
+- Main Font Options: Raleway 
+    -Reasoning:     
+- Backup Fonts: Arial, Helvetical, sans-serifs 
+    - These fonts are in usage just in case, the main font-face is not downloaded
 
