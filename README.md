@@ -43,6 +43,7 @@ A List for Sections
 
 ## Menus
 **Primary Header**
+Primary Header must have a 8px default Footer / Footer musrt have a 6px size.
 - Overview
 - Courses
 - Career Opportunities
