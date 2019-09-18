@@ -83,7 +83,14 @@ Site Map
 ## Typography
 - Main Font Options: Raleway / Soleil
     -Reasoning: Raleway is accessible and customizable due to different options of font-weights and is accessible.
-    - Reasoning: Soleil is a geometric font, making it more poppy and vir=brant. 
+    - Reasoning: Soleil is a geometric font, making it more poppy and vibrant. 
 - Backup Fonts: Arial, Helvetical, sans-serifs 
     - These fonts are in usage just in case, the main font-face is not downloaded
+
+    - Default: Solelil 8px / Raleway Light /8px
+    - Headings: 
+    - H1 Raleway Bold 14px / Soleil Bold 14px 
+    - H2: Raleway Bold 12px / Soleil Bold 12px 
+    - H3: Raleway Bold 10px / Soleil Bold 10px 
+
 
