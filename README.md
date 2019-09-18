@@ -4,7 +4,7 @@
 ## Inspo -> Website/Design Inspirations with src(s)
 - [IDD Course Site] (General Ideas/Design Guide)
 # Purpose
-
+Ge
 # Sections
 A List for Sections 
 - **Header**
@@ -75,9 +75,9 @@ Site Map
 
   
 ## Logo:
-Logo should the same, however, there should be a hover option.
-Outline Mode for when not hovered
-Full Proper logo when hovered. 
+- Logo should the same, however, there should be a hover option.
+- Outline Mode for when not hovered
+- Full Proper logo when hovered. 
 
 ## Typography
 - Main Font Options: Raleway / Soleil
