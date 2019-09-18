@@ -72,6 +72,8 @@ Site Map
 - https://color.adobe.com/trends
 ## Resources
  - Icons: https://ionicons.com/ (Twitter, Insta, Youtube, Facebook)
+ -Images: https://unsplash.com/
+ -Fonts: https://fonts.adobe.com/ + https://fonts.google.com/
 
   
 ## Logo:
