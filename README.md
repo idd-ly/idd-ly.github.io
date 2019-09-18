@@ -15,6 +15,7 @@ A List for Sections
   - Quote 
   - Name
   -Follow Option (Could possibly make this a more sociable website, as well as an informative website for not just G103, but George Brown's Design Institution in general.)
+       Ideas for a secondary pages:
      - Student Portfolio -> Make this view similar to behance
      - Search 
      - Filters/Tags (Which application was used/type of medium)
@@ -35,17 +36,27 @@ A List for Sections
 ## Colours
   - Dominant Colour:    
 ## Menus
+ - 
+ - 
+ - 
+ -
+ -
+ - 
+ - 
+ - 
+ -
 ## Inspo
 - Behance https://www.behance.net/
 ## Resources
  - Icons: 
 
   
-## Logo
+## Logo:
+Logo is
 
 ## Typography
-- Main Font Options: Raleway 
-    -Reasoning:     
+- Main Font Options: Raleway / Soleil
+    -Reasoning: Raleway is accessible and customizable due to different options of font-weights 
 - Backup Fonts: Arial, Helvetical, sans-serifs 
     - These fonts are in usage just in case, the main font-face is not downloaded
 
