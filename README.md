@@ -34,11 +34,14 @@ A List for Sections
       - Search 
 # Design Guide    
 ## Colours
-  - Dominant Colour Theme: #1747A6 -> Use this as a similar highlight to bluee, but not the exact color. However, if (x) uses dark theme, use #6b778d.
+  - Dominant Colour Theme: #1747A6 -> Use this as a similar highlight to blue, but not the exact color. However, if (x) uses dark theme, use #6b778d.
   - Main Color: #F2F2F2 -> Used for website mainly.
   -Dark Theme #263859 -> Used if user has Dark 
-  - Container Colors: #f0feff -> Use for Containers
-  - 
+  - Container Colors: #f0feff -> Use for Containers, only used as a light contrast. 
+  - Theme A: #0540F2, #0F5AF2, #80A6F2, #04D9D9, #F2F2F2
+  - Theme: B #1540BF, #2B65D9, #4968A6, #7394BF, #BF5D54
+
+
 ## Menus
  - 
  - 
@@ -52,6 +55,8 @@ A List for Sections
 ## Inspo
 - Behance https://www.behance.net/
 - https://www.ryerson.ca/
+- https://color.adobe.com/trends/Illustration
+- https://color.adobe.com/trends
 ## Resources
  - Icons: https://ionicons.com/ (Twitter, Insta, Youtube, Facebook)
 
