@@ -39,7 +39,8 @@ A List for Sections
   -Dark Theme #263859 -> Used if user has Dark 
   - Container Colors: #f0feff -> Use for Containers, only used as a light contrast. 
   - Theme A: #0540F2, #0F5AF2, #80A6F2, #04D9D9, #F2F2F2
-  - Theme: B #1540BF, #2B65D9, #4968A6, #7394BF, #BF5D54
+  - Theme B #1540BF, #2B65D9, #4968A6, #7394BF, #BF5D54
+  - Theme C: #17223b, #263859, #6b778d, #ff6768
 
 
 ## Menus
