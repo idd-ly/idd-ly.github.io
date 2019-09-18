@@ -44,15 +44,27 @@ A List for Sections
 
 
 ## Menus
- - 
- - 
- - 
- -
- -
- - 
- - 
- - 
- -
+**Primary Header**
+- Overview
+- Courses
+- Career Opportunities
+- Admission
+- Our Team
+- Tuition
+- Apply Here!
+- Resources
+**Footer-A**
+- School of Design
+- Our Campuses
+- STU-View
+- Blackboard
+- Contact
+**Privacy**
+- Privacy Policy
+Terms of Use
+Accessibility
+Main Website
+Site Map
 ## Inspo
 - Behance https://www.behance.net/
 - https://www.ryerson.ca/
