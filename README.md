@@ -79,6 +79,7 @@ Site Map
 - Logo should the same, however, there should be a hover option.
 - Outline Mode for when not hovered
 - Full Proper logo when hovered. 
+- //Reminder to self: Change the Logo later, i hate it
 
 ## Typography
 - Main Font Options: Raleway / Soleil
