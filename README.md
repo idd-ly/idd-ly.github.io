@@ -4,7 +4,7 @@
 ## Inspo -> Website/Design Inspirations with src(s)
 - [IDD Course Site] (General Ideas/Design Guide)
 # Purpose
- 
+
 # Sections
 A List for Sections 
 - **Header**
@@ -34,7 +34,11 @@ A List for Sections
       - Search 
 # Design Guide    
 ## Colours
-  - Dominant Colour:    
+  - Dominant Colour Theme: #1747A6 -> Use this as a similar highlight to bluee, but not the exact color. However, if (x) uses dark theme, use #6b778d.
+  - Main Color: #F2F2F2 -> Used for website mainly.
+  -Dark Theme #263859 -> Used if user has Dark 
+  - Container Colors: #f0feff -> Use for Containers
+  - 
 ## Menus
  - 
  - 
@@ -47,8 +51,9 @@ A List for Sections
  -
 ## Inspo
 - Behance https://www.behance.net/
+- https://www.ryerson.ca/
 ## Resources
- - Icons: 
+ - Icons: https://ionicons.com/ (Twitter, Insta, Youtube, Facebook)
 
   
 ## Logo:
@@ -56,7 +61,8 @@ Logo is
 
 ## Typography
 - Main Font Options: Raleway / Soleil
-    -Reasoning: Raleway is accessible and customizable due to different options of font-weights 
+    -Reasoning: Raleway is accessible and customizable due to different options of font-weights and is accessible.
+    - Reasoning: Soleil is a geometric font, making it more poppy and vir=brant. 
 - Backup Fonts: Arial, Helvetical, sans-serifs 
     - These fonts are in usage just in case, the main font-face is not downloaded
 
