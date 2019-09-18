@@ -1,4 +1,4 @@
-# Interface Design: Course Doc.
+# Interface Design: Course Doc by Lyndon A. / 101174334
 
 ### Session A: Sept 11, 2019
 ## Inspo -> Website/Design Inspirations with src(s)
