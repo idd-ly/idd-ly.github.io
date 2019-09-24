@@ -6,6 +6,10 @@
 
 /* Colors
 –––––––––––––––––––––––––––––––––––––––––––––– */
+:root {
+  --main-bgc: #f1eeee ;
+  --highc:#80A6F2;  
+}
 /* General Formatting
 –––––––––––––––––––––––––––––––––––––––––––––– */
 body {
@@ -19,12 +23,19 @@ body {
     font-stretch: normal;
 }
 
-/* Logo when I change it
+/* Logo change it laater lmao
 –––––––––––––––––––––––––––––––––––––––––––––– */
+.test {
+
+}
 /* Header & Navigation
 –––––––––––––––––––––––––––––––––––––––––––––– */
 /* Menu 
 –––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  text-decoration: none;
+  color: black;
+}
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––– */
 /* Footer
