@@ -28,24 +28,79 @@ body {
 
 /* Header & Navigation
 –––––––––––––––––––––––––––––––––––––––––––––– */
+.nav-wrapper {
+  text-align: center;
+  font-size: 1.5em;
+}
 /* Menu 
 –––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   text-decoration: none;
   color: black;
 }
+ul {
+  list-style: none;
+}
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––– */
+h5 {
+  text-align: center;
+  font-size: .7rem;
+  line-height: .83333rem;
+}
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––– */
+
+.low-h {
+  font-weight: 100;
+  letter-spacing: .08334rem;
+  text-transform: uppercase;  
+  margin-top: 10px;
+  margin-bottom: 10px;  
+}
 .mda {
   padding: 0.010em;
     margin: 0 0.7em 0 0;
 }
+.fy {
+  margin-top: 10px;
+  text-align: center;
+}
+.mda {
+  padding: 0.010em;
+    margin: 0 0.7em 0 0;
+}
+.ss {
+  width: 20px;
+}
+.fy li {
+  display: inline;
+}
+.test-bottom {
+  text-align: center;
+  width: 120px;
+}
+.copy-date {
+  text-align: center;
+  font-size: 1em;
+  margin-top: 10px; 
+  margin-bottom: 20px;
+}
+.notices {
+  display: inline;
+  letter-spacing: .08334rem;
+}
+.privacy-items {
+  display: inline;
+}
+.legal-s {
+  margin-top: 15px; 
+  text-align: center;
+  font-size: .83333rem;
+}
 /* Media + Grids
 –––––––––––––––––––––––––––––––––––––––––––––– */
-/* Font Imports
-–––––––––––––––––––––––––––––––––––––––––––––– */
+
 
 
 
