@@ -3,6 +3,7 @@
 /* Font Imports
 –––––––––––––––––––––––––––––––––––––––––––––– */
 @import url("https://use.typekit.net/zkc7kfd.css");
+@import url("https://use.typekit.net/zkc7kfd.css");
 
 /* Colors
 –––––––––––––––––––––––––––––––––––––––––––––– */
@@ -23,14 +24,35 @@ body {
     font-stretch: normal;
 }
 
-/* Logo change it laater lmao
+/* Logo change it laater lmao / images
 –––––––––––––––––––––––––––––––––––––––––––––– */
+.test {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 120px;
+}
+.m-logo {
+  text-align: center;
+}
 
 /* Header & Navigation
 –––––––––––––––––––––––––––––––––––––––––––––– */
+.m-logo { 
+
+  border-bottom: 1px solid #f4f4f4;
+}
 .nav-wrapper {
+  display: inline;
   text-align: center;
   font-size: 1.5em;
+}
+.main-nav li {
+  display: inline;
+  font-size: .66667rem;
+  line-height: 1rem;
+}
+.nav-item {
+  padding: 1em;
 }
 /* Menu 
 –––––––––––––––––––––––––––––––––––––––––––––– */
@@ -50,13 +72,16 @@ h5 {
 }
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––– */
-
+.social-icons{
+  margin-bottom: 10px;
+}
 .low-h {
   font-weight: 100;
   letter-spacing: .08334rem;
   text-transform: uppercase;  
   margin-top: 10px;
   margin-bottom: 10px;  
+  padding-left: 8px;
 }
 .mda {
   padding: 0.010em;
@@ -87,16 +112,43 @@ h5 {
   margin-bottom: 20px;
 }
 .notices {
+  font-size: 0.788em;
+  text-transform: uppercase;  
   display: inline;
-  letter-spacing: .08334rem;
+  letter-spacing: .0832rem;
 }
 .privacy-items {
   display: inline;
 }
 .legal-s {
+  border-left: 14.85px;
+  border-right: 14.85px;
   margin-top: 15px; 
   text-align: center;
   font-size: .83333rem;
+}
+.logo {
+  margin-top: 17spx;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.footer-nav {
+  text-align: center;
+}
+.footer-extra {
+  margin-top: 20px;
+  padding-right: 5px;
+  padding-top: 8px; 
+background-color: #dae3f4; 
+display: block;
+text-align: center;
+}
+.f-style {
+  font-family: ff-enzo-web, sans-serif;
+  font-size: 1.8em;
+  font-weight: 700;
+  font-style: normal;
+  color: white;
 }
 /* Media + Grids
 –––––––––––––––––––––––––––––––––––––––––––––– */
