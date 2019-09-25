@@ -65,6 +65,13 @@ ul {
 }
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––– */
+h1 {
+  font-family: soleil, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 10px;
+}
 h5 {
   text-align: center;
   font-size: .7rem;
@@ -150,6 +157,8 @@ text-align: center;
   font-style: normal;
   color: white;
 }
+
+
 /* Media + Grids
 –––––––––––––––––––––––––––––––––––––––––––––– */
 

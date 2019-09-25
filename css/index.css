@@ -8,6 +8,19 @@
 –––––––––––––––––––––––––––––––––––––––––––––– */
 /* General Formatting
 –––––––––––––––––––––––––––––––––––––––––––––– */
+.intro-description {
+  background-color: #cce3ff;
+  padding: 0.125px;
+}
+
+.cardlol {
+  background-color: #fff;
+  margin: 1em;
+  padding: 30px 15px;
+}
+.student-s {
+  text-align: center;
+}
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––– */
 img {
@@ -17,9 +30,47 @@ img {
 }
 .students {
   width: 320px;
+} 
+.jann { 
+  width: 220px;
+}
+
+.jan  {
+  width: 220px;
+}
+
+.jane {
+  width: 220px;
+}
+.s-pro {
+  text-align: center;
+}
+
+.filler-b {
+  width: 220px;
+}
+.filler-c {
+  width: 220px;
+}
+.filler-d {
+  width: 220px;
+}
+.filler-e {
+  width: 220px;
+}
+
+.listp-item {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
 }
 /* Media + Grids
 –––––––––––––––––––––––––––––––––––––––––––––– */
+.listp-item li {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;  
+}
 
 
 
