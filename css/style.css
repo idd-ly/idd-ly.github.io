@@ -50,10 +50,10 @@ body {
   padding-bottom: 0.5em;
 }
 .main-nav li {
-  display: inline;
   font-size: .66667rem;
   line-height: 1rem;
 }
+/*  display: inline for ^ here later; */
 .nav-item {
   padding: 1em;
 }
