@@ -94,8 +94,13 @@ img {
 }
 
 /* Media + Grids
-–––––––––––––––––––––––––––––––––––––––––––––– */
-
-
-
+–––––––––––––––––––––––––––––––––––––––––––––– */ 
+@media screen and (min-width: 567px) {
+  .card lol {
+    padding: 15px;
+  }
+  .students {
+    width: 567px;
+  }
+}
 

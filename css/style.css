@@ -74,7 +74,7 @@ ul {
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––– */
 .gb-t {
-  font-family: soleil, sans-serif;
+  font-family: soleil, Arial, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
   margin-top: 10px;
@@ -207,7 +207,7 @@ color: #acacac;
   font-size: .83333rem;
 }
 .logo {
-  margin-top: 17spx;
+  margin-top: 17px;
   margin-bottom: 10px;
   text-align: center;
 }
@@ -234,7 +234,13 @@ text-align: center;
 
 /* Media + Grids
 –––––––––––––––––––––––––––––––––––––––––––––– */
+@media screen and (min-width: 567px) {
 
-
-
-
+  .footer-item {
+    padding: 0;
+  }
+  .privacy-items {
+    padding: 0.3em;
+  }
+  
+}
