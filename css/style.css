@@ -4,6 +4,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––– */
 @import url("https://use.typekit.net/zkc7kfd.css");
 @import url("https://use.typekit.net/zkc7kfd.css");
+@import url("https://use.typekit.net/zkc7kfd.css");
 
 /* Colors
 –––––––––––––––––––––––––––––––––––––––––––––– */
@@ -56,6 +57,10 @@ body {
 /*  display: inline for ^ here later; */
 .nav-item {
   padding: 1em;
+font-family: brandon-grotesque, sans-serif;
+font-weight: 700;
+font-style: normal;
+
 }
 /* Menu 
 –––––––––––––––––––––––––––––––––––––––––––––– */
