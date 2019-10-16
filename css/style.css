@@ -51,18 +51,19 @@ body {
   padding-bottom: 0.5em;
 }
 .main-nav li {
-  font-size: .66667rem;
+  font-size: .66667em;
   line-height: 1rem;
 }
 /*  display: inline for ^ here later; */
 .nav-item {
   padding: 1em;
-font-family: brandon-grotesque, sans-serif;
+font-family: soleil, Arial, Helvetica,sans-serif;
 font-weight: 700;
 font-style: normal;
 
+
 }
-/* Menu 
+
 –––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   text-decoration: none;
@@ -105,13 +106,6 @@ ul {
 .w-btn :hover {
   background-image: linear-gradient(180deg,#80A6F2, #80A6F2);
 }
-.pr-h {
-  color: #0540F2;
-  text-align: left;
-  text-transform: capitalize;
-  font-weight: 700;
-  font-size: 1.5rem;
-}
 
 .quote {
   display: inline;
@@ -125,7 +119,6 @@ ul {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 1.5rem;
-  border-bottom:1px solid #f4f4f4;
   margin-left: 10px;
 }
 
@@ -141,13 +134,7 @@ ul {
   font-size: 1.3rem;
   margin-left: 10px;
 }
-.small-p {
-  text-align: center;
-color: #acacac;
-  margin-top: 10px;
-  text-transform: uppercase;
-  font-size: .5rem;
-}
+
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––– */
 .social-icons{
@@ -234,7 +221,7 @@ text-align: center;
 
 /* Media + Grids
 –––––––––––––––––––––––––––––––––––––––––––––– */
-@media screen and (min-width: 567px) {
+@media screen and (min-width: 567px ) {
 
   .footer-item {
     padding: 0;
@@ -242,5 +229,43 @@ text-align: center;
   .privacy-items {
     padding: 0.3em;
   }
-  
+  .main-nav li {
+    display: inline;
+
+  }
+.small-t {
+  font-size: .66rem;
+}
+.gb-t {
+  font-size: 1.3em;
+}
+.w-btn {
+  font-size: 1em;
+}
+.sp-h {
+  text-align: center;
+}
+.low-h {
+  margin: 0;
+}
+.footer-nav li {
+  display: inline;
+}
+  .dp-h {
+    font-size: 30px;
+  }
+  .sp-h {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 1024px) {
+  .legal-s {
+    font-size: .9rem;
+  }
+  .test-bottom {
+    display: inline-block;
+  }
 }

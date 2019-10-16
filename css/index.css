@@ -25,6 +25,22 @@
 .work {
   border-bottom:1px solid #f4f4f4;
 }
+.profile {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  padding-bottom: 1.3em;
+}
+.programs {
+  text-align: center;
+}
+.pr-h {
+  color: #0540F2;
+  text-align: left;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 3em;
+}
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––– */
 img {
@@ -36,7 +52,8 @@ img {
   width: 320px;
 } 
 .jann { 
-  width: 172.4px;
+  width: 124px;
+  border: 3px black solid;
 }
 
 .jan  {
@@ -51,8 +68,6 @@ img {
 }
 .filler-a {
   width: 220px;
-  margin-left: 30px;
-  margin-top: 10px;
 }
 .filler-b {
   width: 200px;
@@ -75,7 +90,7 @@ img {
   margin: 10px;
 }
 .grid-sections {
-  margin-top: 60px;
+  margin-top: 20px;
   padding: 0 15px;
 }
 .layout {
@@ -84,6 +99,9 @@ img {
   max-width: 1200px;
 }
 .s-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  padding-bottom: 1.3em;
   padding: 0.5em;
 }
 /* Names
@@ -91,6 +109,14 @@ img {
 .name {
   color: #acacac;
   
+}
+.small-p {
+  text-align: center;
+color: #acacac;
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-size: .6rem;
+  line-height: 2.8em;
 }
 
 /* Media + Grids
@@ -102,5 +128,58 @@ img {
   .students {
     width: 567px;
   }
-}
+  .pr-h {
+    text-align: center;
+    font-size: 30px;
+  }
+  .intro-description {
+    padding: 3px;
+  }
+  .s-layout {
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: 1em;
+  }
+  .profile {
+    grid-template-columns: 1fr;
+    padding-left: 0.31em;
+  }
+  .listp-item {
+    padding-left: 3em;
+  }
+  .category-dsn {
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 1fr  1fr;
+    grid-gap: 1em;
+  }
+  .programs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  .filler-a {
+    width: 200px;
+  }
 
+
+}
+@media screen and (min-width: 768px) {
+  .students {
+    width: 720px;
+  }
+}
+@media screen and (min-width: 1024px ) {
+  .intro-description {
+    padding: 10px 10px 10px ;
+  }
+  .cardlol {
+    width: 100%;
+    padding: 60px 30px;
+  }
+  .jann {
+    width: 218px;
+  }
+}
