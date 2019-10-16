@@ -250,6 +250,8 @@ text-align: center;
 }
 .footer-nav li {
   display: inline;
+  font-size: .66667rem;
+  padding: 1em;
 }
   .dp-h {
     font-size: 30px;
@@ -267,5 +269,15 @@ text-align: center;
   }
   .test-bottom {
     display: inline-block;
+  }
+  .w-btn {
+    font-size: 1.3em;
+  }
+  .small-t {
+    font-size: .70rem;
+  }
+  .main-nav li {
+    font-size: 0.80rem;
+    line-height: 2em;
   }
 }

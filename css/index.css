@@ -101,8 +101,9 @@ img {
 .s-layout {
   display: grid;
   grid-template-columns: 1fr;
-  padding-bottom: 1.3em;
-  padding: 0.5em;
+  padding: 27 27 17 18px;
+  border: 3px black solid;
+  background-color: white;
 }
 /* Names
 –––––––––––––––––––––––––––––––––––––––––––––– */
@@ -170,10 +171,24 @@ color: #acacac;
   .students {
     width: 720px;
   }
+  .programs {
+    grid-template-rows: 1fr 1fr ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-top: 2em;
+  }
+  .filler-a {
+    width: 300px;
+  }
+  .listp-item {
+    padding-left: 9em;
+  }
+  .s-layout {
+    padding-left: 6em;
+  }
 }
 @media screen and (min-width: 1024px ) {
   .intro-description {
-    padding: 10px 10px 10px ;
+    padding: 18px 27px 26px 12px;
   }
   .cardlol {
     width: 100%;
@@ -181,5 +196,24 @@ color: #acacac;
   }
   .jann {
     width: 218px;
+  }
+  .listp-item {
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .description {
+    font-size: 1.5em;
+  }
+  .students {
+    width: 1000px;
+  }
+  .student-s {
+    font-size: 0.80rem;
+  }
+  .small-p {
+    font-size: 0.70rem;
+  }
+  .listp-item{
+    padding-right:90em ;
   }
 }
