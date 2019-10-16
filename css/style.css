@@ -280,4 +280,13 @@ text-align: center;
     font-size: 0.80rem;
     line-height: 2em;
   }
+  .ss {
+    width: 30px;
+  }
+  .footer-nav {
+    font-size: 0.60em;
+  }
+  .copy-date {
+    font-size: 1.3em;
+  }
 }

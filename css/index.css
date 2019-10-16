@@ -101,7 +101,7 @@ img {
 .s-layout {
   display: grid;
   grid-template-columns: 1fr;
-  padding: 27 27 17 18px;
+  padding: 27px 27px 17px 18px;
   border: 3px black solid;
   background-color: white;
 }
@@ -214,6 +214,6 @@ color: #acacac;
     font-size: 0.70rem;
   }
   .listp-item{
-    padding-right:90em ;
+    padding-right:9em ;
   }
 }
