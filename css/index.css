@@ -206,6 +206,8 @@ color: #acacac;
   }
   .students {
     width: 1000px;
+    margin-left: 7px;
+    margin-bottom: 5px;
   }
   .student-s {
     font-size: 0.80rem;
